@@ -185,7 +185,7 @@ Follow these steps to run the projects locally:
    git clone https://github.com/joelanarba/30-JavaScript-Projects.git
 2. Navigate to a project directory:
    ```sh
-   cd 30-JavaScript-Projects/project-name
+   cd 30-JavaScript-Projects/30-JavaScript-Projects
 3. Open index.html in a browser::
    ```sh
    start index.html
