@@ -57,19 +57,3 @@
     right: 15px;
     cursor: pointer;
 }
-.signOut {
-    position: absolute;
-    bottom: 10px; 
-    right: 10px; 
-    font-size: 14px;
-    color: #555;
-}
-  
-.signOut a {
-    color: #007BFF; 
-    text-decoration: none;
-}
-  
-.signOut a:hover {
-    text-decoration: underline;
-}
