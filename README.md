@@ -137,7 +137,7 @@ Each project is organized in its own directory and includes essential files like
     - `style.css`
 
 23. **Quiz App**
-    - A simple interactive quiz application.
+    - A simple interactive quiz application with a timer.
     - `index.html`
     - `script.js`
     - `style.css`
